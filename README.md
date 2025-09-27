@@ -9,10 +9,17 @@ A multiplayer desktop dice game built with Java, demonstrating Object-Oriented P
 ## Screenshots
 
 **Game Setup**
+
+
+
 ![Player Count Dialog](https://raw.githubusercontent.com/venkatamanisidddhu/Java-Dice-Game/main/img-1.png)
 ![Player Name Dialog](https://raw.githubusercontent.com/venkatamanisidddhu/Java-Dice-Game/main/img-3.png)
 
+
+
 **Main Game Interface**
+
+
 ![Main Game Window](https://raw.githubusercontent.com/venkatamanisidddhu/Java-Dice-Game/main/img-2.png)
 
 ## How to Run the Project
